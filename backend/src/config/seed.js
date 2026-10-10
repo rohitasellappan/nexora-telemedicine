@@ -13,6 +13,8 @@ const UPLOADS_DIR = path.resolve(__dirname, '../../uploads/recordings');
  */
 export const seedDatabase = async () => {
   try {
+    console.log(`[Database Seeder] Active database: ${User.db.name}`);
+console.log(`[Database Seeder] User collection: ${User.collection.name}`);
     const userCount = await User.countDocuments();
     if (userCount > 0) {
       console.log(`[Database Seeder] Collections already populated (${userCount} users present). Skipping initial seed.`);
@@ -438,3 +440,9 @@ export const seedDatabase = async () => {
 };
 
 export default seedDatabase;
+console.log(
+  `[Database Seeder] Active database: ${User.db.name}`
+);
+console.log(
+  `[Database Seeder] User collection: ${User.collection.name}`
+);
