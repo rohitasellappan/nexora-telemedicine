@@ -1,0 +1,192 @@
+[
+  {
+    "id": "doc-1",
+    "email": "ananya.doctor@nexora.health",
+    "role": "doctor",
+    "name": "Dr. Ananya Sharma, MD",
+    "specialization": "Cardiologist",
+    "qualification": "MBBS, MD (General Medicine), DM (Cardiology)",
+    "experience": "12 years",
+    "experienceYears": 12,
+    "availability": "Mon - Fri (10:00 AM - 07:00 PM)",
+    "location": "AIIMS Tele-Network Hub, New Delhi (Serving UP/Bihar Outposts)",
+    "hospital": "AIIMS Tele-Network Hub",
+    "shortDescription": "Specialized in hypertension management, preventative cardiac care, post-harvest fatigue, and low-bandwidth rural ECG consultations.",
+    "registrationNumber": "MCI-84920 / UP-2015",
+    "rating": 4.95,
+    "totalConsultations": 1420,
+    "languages": [
+      "Hindi",
+      "English",
+      "Bhojpuri"
+    ],
+    "status": "Available & On-Call",
+    "availableDates": [
+      "Today, Oct 8",
+      "Tomorrow, Oct 9",
+      "Fri, Oct 10",
+      "Sat, Oct 11"
+    ],
+    "timeSlots": [
+      "10:00 AM",
+      "11:30 AM",
+      "02:00 PM",
+      "04:30 PM",
+      "05:30 PM"
+    ],
+    "activeKiosksConnected": [
+      "Rampur Block #3",
+      "Balrampur Sector #4",
+      "Kherli Outpost #9"
+    ]
+  },
+  {
+    "id": "doc-2",
+    "email": "rajesh.doctor@nexora.health",
+    "role": "doctor",
+    "name": "Dr. Rajesh Patel, MD",
+    "specialization": "Pediatrician",
+    "qualification": "MBBS, MD (Pediatrics), DCH",
+    "experience": "9 years",
+    "experienceYears": 9,
+    "availability": "Mon - Sat (08:30 AM - 04:30 PM)",
+    "location": "Regional Mother & Child Tele-Center, Ahmedabad",
+    "hospital": "Regional Mother & Child Tele-Center",
+    "shortDescription": "Dedicated to infant nutrition, childhood seasonal illnesses, vaccination counseling, and pediatric tele-triage for remote villages.",
+    "registrationNumber": "MCI-62118 / GUJ-2017",
+    "rating": 4.88,
+    "totalConsultations": 980,
+    "languages": [
+      "Gujarati",
+      "Hindi",
+      "English"
+    ],
+    "status": "Available & On-Call",
+    "availableDates": [
+      "Today, Oct 8",
+      "Tomorrow, Oct 9",
+      "Fri, Oct 10"
+    ],
+    "timeSlots": [
+      "09:00 AM",
+      "11:00 AM",
+      "01:30 PM",
+      "03:30 PM"
+    ],
+    "activeKiosksConnected": [
+      "Sector 8 Rural Kiosk"
+    ]
+  },
+  {
+    "id": "doc-3",
+    "email": "priya.doctor@nexora.health",
+    "role": "doctor",
+    "name": "Dr. Priya Sharma, MD",
+    "specialization": "General Physician",
+    "qualification": "MBBS, MD (Internal Medicine)",
+    "experience": "14 years",
+    "experienceYears": 14,
+    "availability": "Mon - Sat (09:00 AM - 05:00 PM)",
+    "location": "District Civil Hospital & Tele-Hub, Lucknow",
+    "hospital": "District Civil Hospital & Tele-Hub",
+    "shortDescription": "Expert in acute infectious diseases, seasonal fevers, respiratory infections, and rural primary care triage for community health centers.",
+    "registrationNumber": "MCI-51024 / UP-2012",
+    "rating": 4.91,
+    "totalConsultations": 2150,
+    "languages": [
+      "Hindi",
+      "English",
+      "Awadhi"
+    ],
+    "status": "Available & On-Call",
+    "availableDates": [
+      "Today, Oct 8",
+      "Tomorrow, Oct 9",
+      "Sat, Oct 11"
+    ],
+    "timeSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM"
+    ],
+    "activeKiosksConnected": [
+      "Rampur Panchayat Outpost #3",
+      "Gauriganj Outpost #2"
+    ]
+  },
+  {
+    "id": "doc-4",
+    "email": "vikram.doctor@nexora.health",
+    "role": "doctor",
+    "name": "Dr. Vikram Malhotra, MD",
+    "specialization": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+    "experience": "8 years",
+    "experienceYears": 8,
+    "availability": "Tue - Sun (11:00 AM - 06:00 PM)",
+    "location": "National Tele-Dermatology Mission, Chandigarh",
+    "hospital": "National Tele-Dermatology Mission",
+    "shortDescription": "Experienced in diagnosing agricultural contact dermatitis, fungal infections, allergic rashes, and parasitic skin conditions.",
+    "registrationNumber": "MCI-74892 / PB-2018",
+    "rating": 4.85,
+    "totalConsultations": 820,
+    "languages": [
+      "Punjabi",
+      "Hindi",
+      "English"
+    ],
+    "status": "Available & On-Call",
+    "availableDates": [
+      "Tomorrow, Oct 9",
+      "Fri, Oct 10",
+      "Sun, Oct 12"
+    ],
+    "timeSlots": [
+      "11:30 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "05:00 PM"
+    ],
+    "activeKiosksConnected": [
+      "Kherli Outpost #9"
+    ]
+  },
+  {
+    "id": "doc-5",
+    "email": "sunita.doctor@nexora.health",
+    "role": "doctor",
+    "name": "Dr. Sunita Rao, MS",
+    "specialization": "Gynecologist",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology), DGO",
+    "experience": "11 years",
+    "experienceYears": 11,
+    "availability": "Mon - Fri (09:30 AM - 05:30 PM)",
+    "location": "Apex Rural Maternal Health Foundation, Hyderabad",
+    "hospital": "Apex Rural Maternal Health Foundation",
+    "shortDescription": "Focused on high-risk rural pregnancy screening, anemia management in women, maternal nutrition, and adolescent health.",
+    "registrationNumber": "MCI-69411 / TS-2015",
+    "rating": 4.96,
+    "totalConsultations": 1640,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "status": "Available & On-Call",
+    "availableDates": [
+      "Today, Oct 8",
+      "Tomorrow, Oct 9",
+      "Fri, Oct 10"
+    ],
+    "timeSlots": [
+      "10:30 AM",
+      "12:30 PM",
+      "03:00 PM",
+      "04:30 PM"
+    ],
+    "activeKiosksConnected": [
+      "Balrampur Sector #4"
+    ]
+  }
+]

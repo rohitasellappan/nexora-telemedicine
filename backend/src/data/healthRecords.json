@@ -1,0 +1,553 @@
+[
+  {
+    "id": "HR-22804",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-22791",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T23:50:22.804Z"
+  },
+  {
+    "id": "HR-22228",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-101",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest tightness, elevated morning BP, fatigue after harvest work",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD • Hydration salts 1 packet daily",
+    "doctorNotes": "Patient advised to strictly avoid midday field work.",
+    "followUpInstructions": "5 days BP review",
+    "recordingId": "REC-APT-101-SAMPLE",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T23:50:22.228Z",
+    "updatedAt": "2026-10-08T23:50:22.238Z"
+  },
+  {
+    "id": "HR-94866",
+    "patientId": "pat-8630",
+    "patientName": "Ramesh E2E 92201",
+    "patientAge": 44,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-92581",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest heaviness after harvest activity, elevated blood pressure",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD in morning • Oral rehydration salts 1 packet daily",
+    "doctorNotes": "Advised strict low-sodium diet, reduce midday direct sun exposure, BP check at kiosk weekly.",
+    "followUpInstructions": "7 days for BP review at community tele-kiosk",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "createdAt": "2026-10-08T23:49:54.887Z"
+  },
+  {
+    "id": "HR-38170",
+    "patientId": "pat-2293",
+    "patientName": "Ramesh E2E 35558",
+    "patientAge": 44,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-35893",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest heaviness after harvest activity, elevated blood pressure",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD in morning • Oral rehydration salts 1 packet daily",
+    "doctorNotes": "Advised strict low-sodium diet, reduce midday direct sun exposure, BP check at kiosk weekly.",
+    "followUpInstructions": "7 days for BP review at community tele-kiosk",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "createdAt": "2026-10-08T23:25:38.170Z"
+  },
+  {
+    "id": "HR-23734",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-23720",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T23:25:23.734Z"
+  },
+  {
+    "id": "HR-17407",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-101",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest tightness, elevated morning BP, fatigue after harvest work",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD • Hydration salts 1 packet daily",
+    "doctorNotes": "Patient advised to strictly avoid midday field work.",
+    "followUpInstructions": "5 days BP review",
+    "recordingId": "REC-APT-101-SAMPLE",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T23:25:17.407Z",
+    "updatedAt": "2026-10-08T23:25:17.415Z"
+  },
+  {
+    "id": "HR-54033",
+    "patientId": "pat-9924",
+    "patientName": "Ramesh E2E 51430",
+    "patientAge": 44,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-51759",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest heaviness after harvest activity, elevated blood pressure",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD in morning • Oral rehydration salts 1 packet daily",
+    "doctorNotes": "Advised strict low-sodium diet, reduce midday direct sun exposure, BP check at kiosk weekly.",
+    "followUpInstructions": "7 days for BP review at community tele-kiosk",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "createdAt": "2026-10-08T23:17:34.033Z"
+  },
+  {
+    "id": "HR-58124",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-58110",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T22:47:38.124Z"
+  },
+  {
+    "id": "HR-11644",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-101",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest tightness, elevated morning BP, fatigue after harvest work",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD • Hydration salts 1 packet daily",
+    "doctorNotes": "Patient advised to strictly avoid midday field work.",
+    "followUpInstructions": "5 days BP review",
+    "recordingId": "REC-APT-101-SAMPLE",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T22:46:51.664Z",
+    "updatedAt": "2026-10-08T22:46:51.673Z"
+  },
+  {
+    "id": "HR-86270",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-86253",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T22:34:46.270Z"
+  },
+  {
+    "id": "HR-39501",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-39489",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T22:33:59.501Z"
+  },
+  {
+    "id": "HR-90752",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-101",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest tightness, elevated morning BP, fatigue after harvest work",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD • Hydration salts 1 packet daily",
+    "doctorNotes": "Patient advised to strictly avoid midday field work.",
+    "followUpInstructions": "5 days BP review",
+    "recordingId": "REC-APT-101-SAMPLE",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T22:29:50.770Z",
+    "updatedAt": "2026-10-08T22:29:50.813Z"
+  },
+  {
+    "id": "HR-54777",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-54769",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T21:17:34.777Z"
+  },
+  {
+    "id": "HR-49934",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-101",
+    "consultationDate": "09 Oct 2026",
+    "symptoms": "Mild chest tightness, elevated morning BP, fatigue after harvest work",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional heat strain",
+    "prescription": "Tab. Telmisartan 40mg OD • Hydration salts 1 packet daily",
+    "doctorNotes": "Patient advised to strictly avoid midday field work.",
+    "followUpInstructions": "5 days BP review",
+    "recordingId": "REC-APT-101-SAMPLE",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T21:17:29.952Z",
+    "updatedAt": "2026-10-08T21:17:29.959Z"
+  },
+  {
+    "id": "HR-42618",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-42604",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T19:00:42.618Z"
+  },
+  {
+    "id": "HR-26950",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-101",
+    "consultationDate": "Oct 09, 2026",
+    "symptoms": [
+      "Mild evening headache",
+      "Exertional fatigue"
+    ],
+    "diagnosis": "Borderline Hypertension - Managed via Lifestyle Modification",
+    "prescription": "Advised rest and oral hydration.",
+    "doctorNotes": "Patient blood pressure stabilized at 124/82 mmHg. Advised low-sodium diet and daily brisk walking.",
+    "followUpInstructions": "Recheck BP at Rampur Panchayat Health Outpost in 30 days",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T18:58:46.950Z"
+  },
+  {
+    "id": "HR-101",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-3",
+    "doctorName": "Dr. Priya Sharma",
+    "doctorSpecialization": "General Physician",
+    "appointmentId": "APT-099",
+    "consultationDate": "08 Oct 2026",
+    "symptoms": "Fever, body pain",
+    "diagnosis": "Viral infection",
+    "prescription": "Paracetamol 500mg",
+    "doctorNotes": "Take adequate rest and fluids.",
+    "followUpInstructions": "3 days",
+    "recordingId": "REC-101-SAMPLE",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "createdAt": "2026-10-08T09:30:00.000Z"
+  },
+  {
+    "id": "HR-102",
+    "patientId": "pat-1",
+    "patientName": "Kumar",
+    "patientAge": 42,
+    "patientGender": "Male",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-100",
+    "consultationDate": "24 Sep 2026",
+    "symptoms": "Mild chest discomfort, afternoon fatigue, routine blood pressure check",
+    "diagnosis": "Stage 1 Essential Hypertension with exertional strain",
+    "prescription": "Tab. Amlodipine 5mg OD (morning) for 30 days\nTab. Multivitamin 1 tablet after meals for 15 days",
+    "doctorNotes": "Advised to reduce dietary sodium. Drink 3-4 liters of clean electrolyte water daily. Avoid direct noon heat.",
+    "followUpInstructions": "14 days BP review at rural health kiosk",
+    "recordingId": null,
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes",
+      "Hypertension"
+    ],
+    "currentMedications": [
+      "Metformin",
+      "Amlodipine 5mg"
+    ],
+    "createdAt": "2026-09-24T10:30:00.000Z"
+  },
+  {
+    "id": "HR-103",
+    "patientId": "pat-2",
+    "patientName": "Sunita Devi",
+    "patientAge": 36,
+    "patientGender": "Female",
+    "doctorId": "doc-1",
+    "doctorName": "Dr. Ananya Sharma, MD",
+    "doctorSpecialization": "Cardiologist",
+    "appointmentId": "APT-102",
+    "consultationDate": "08 Oct 2026",
+    "symptoms": "Throbbing unilateral headaches, photophobia, noon heat dizziness, nausea",
+    "diagnosis": "Migraine with aura and seasonal heat exhaustion",
+    "prescription": "Tab. Naproxen 500mg - SOS with food\nTab. Domperidone 10mg - 1 tablet before meals\nORS Rehydration salts - 1 packet daily in 1L water",
+    "doctorNotes": "Maintain regular hydration diary. Cover head with cotton cloth while working in open sunlight. Avoid skipping morning meals.",
+    "followUpInstructions": "10 days if headaches exceed 2 episodes per week",
+    "recordingId": null,
+    "allergies": [
+      "None reported"
+    ],
+    "existingConditions": [
+      "Chronic Migraine"
+    ],
+    "currentMedications": [
+      "Naproxen 500mg SOS"
+    ],
+    "createdAt": "2026-10-08T12:00:00.000Z"
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "id": "pat-1",
+    "email": "ramesh.patient@nexora.health",
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde",
+    "role": "patient",
+    "name": "Kumar",
+    "fullName": "Kumar (Ramesh Kumar)",
+    "age": 42,
+    "gender": "Male",
+    "village": "Rampur Village, Raebareli District",
+    "healthId": "NX-9824-7123",
+    "phone": "+91 98765 43210",
+    "bloodGroup": "O+",
+    "primaryKiosk": "Rampur Panchayat Health Outpost #3",
+    "emergencyContact": "Suresh Kumar (Brother) • +91 98765 43211",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [
+      "Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin"
+    ],
+    "previousDiagnoses": [
+      "Viral infection (Oct 2026)",
+      "Stage 1 Hypertension (Sep 2026)"
+    ],
+    "vitals": {
+      "bloodPressure": "124/82 mmHg",
+      "heartRate": "72 bpm",
+      "bloodSugar": "114 mg/dL",
+      "spo2": "98%",
+      "temperature": "98.4 °F",
+      "lastUpdated": "Today, 09:30 AM via Village Health Worker"
+    },
+    "medicalRecords": [
+      {
+        "id": "rec-1",
+        "title": "Digital Prescription - Hypertension & Fatigue Care",
+        "doctor": "Dr. Ananya Sharma, MD",
+        "date": "Sep 24, 2026",
+        "diagnosis": "Stage 1 Essential Hypertension with seasonal fatigue",
+        "medications": [
+          {
+            "name": "Amlodipine",
+            "dosage": "5mg",
+            "freq": "Once daily (morning)",
+            "duration": "30 days"
+          },
+          {
+            "name": "Multivitamin & Zinc",
+            "dosage": "1 tablet",
+            "freq": "Once daily after meals",
+            "duration": "15 days"
+          }
+        ],
+        "notes": "Advised reduced salt intake during agricultural work. Hydrate with electrolyte water.",
+        "facility": "Tele-Hub Regional Center"
+      },
+      {
+        "id": "rec-2",
+        "title": "Rural Outpost Lab Report - Blood Profile & Vitals",
+        "doctor": "Community Health Worker Maya",
+        "date": "Sep 20, 2026",
+        "diagnosis": "Routine Village Screening Panel",
+        "medications": [],
+        "notes": "HbA1c: 6.4%, Fasting Glucose: 108 mg/dL, Resting Pulse: 74 bpm. Normal renal biomarkers.",
+        "facility": "Rampur Panchayat Health Outpost #3"
+      },
+      {
+        "id": "rec-3",
+        "title": "Consultation Summary - Acute Respiratory Infection",
+        "doctor": "Dr. Suresh Varma, MD",
+        "date": "Jun 12, 2026",
+        "diagnosis": "Mild Bronchial Congestion resolved with antibiotics",
+        "medications": [
+          {
+            "name": "Azithromycin",
+            "dosage": "500mg",
+            "freq": "Once daily",
+            "duration": "3 days"
+          },
+          {
+            "name": "Cetirizine",
+            "dosage": "10mg",
+            "freq": "Bedtime",
+            "duration": "5 days"
+          }
+        ],
+        "notes": "Patient reported full recovery after completing course. No residual wheezing.",
+        "facility": "NEXORA Virtual Clinic"
+      }
+    ]
+  },
+  {
+    "id": "pat-2",
+    "email": "sunita.patient@nexora.health",
+    "role": "patient",
+    "name": "Sunita Devi",
+    "age": 36,
+    "gender": "Female",
+    "village": "Balrampur Block, Sector 4",
+    "healthId": "NX-4412-8891",
+    "phone": "+91 97123 45678",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Balrampur Community Tele-Center",
+    "emergencyContact": "Rakesh Devi (Spouse) • +91 97123 45679",
+    "allergies": [
+      "None reported"
+    ],
+    "existingConditions": [
+      "Chronic Migraine",
+      "Seasonal Dehydration"
+    ],
+    "currentMedications": [
+      "Naproxen 500mg (SOS)"
+    ],
+    "previousDiagnoses": [
+      "Migraine with aura (Oct 2026)"
+    ],
+    "vitals": {
+      "bloodPressure": "118/76 mmHg",
+      "heartRate": "68 bpm",
+      "bloodSugar": "98 mg/dL",
+      "spo2": "99%",
+      "temperature": "98.6 °F",
+      "lastUpdated": "Yesterday, 04:15 PM"
+    },
+    "medicalRecords": [],
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde"
+  },
+  {
+    "id": "pat-3",
+    "email": "manoj.patient@nexora.health",
+    "role": "patient",
+    "name": "Manoj Singh",
+    "age": 52,
+    "gender": "Male",
+    "village": "Kherli Village, Sector 9",
+    "healthId": "NX-3310-9102",
+    "phone": "+91 94567 11223",
+    "bloodGroup": "A+",
+    "primaryKiosk": "Kherli Primary Tele-Kiosk",
+    "emergencyContact": "Geeta Singh (Daughter) • +91 94567 11224",
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "existingConditions": [
+      "Type 2 Diabetes Mellitus",
+      "Peripheral Neuropathy"
+    ],
+    "currentMedications": [
+      "Metformin 500mg (BD)",
+      "Pregabalin 75mg (Bedtime)"
+    ],
+    "previousDiagnoses": [
+      "Type 2 Diabetes (Mar 2024)",
+      "Mild Peripheral Neuropathy"
+    ],
+    "vitals": {
+      "bloodPressure": "138/88 mmHg",
+      "heartRate": "78 bpm",
+      "bloodSugar": "142 mg/dL",
+      "spo2": "97%",
+      "temperature": "99.1 °F",
+      "lastUpdated": "Today, 10:00 AM"
+    },
+    "medicalRecords": [],
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde"
+  },
+  {
+    "id": "doc-1",
+    "email": "ananya.doctor@nexora.health",
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde",
+    "role": "doctor",
+    "name": "Dr. Ananya Sharma, MD",
+    "phone": "+91 99887 76655"
+  },
+  {
+    "id": "doc-2",
+    "email": "rajesh.doctor@nexora.health",
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde",
+    "role": "doctor",
+    "name": "Dr. Rajesh Patel, MD",
+    "phone": "+91 99887 76655"
+  },
+  {
+    "id": "doc-3",
+    "email": "priya.doctor@nexora.health",
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde",
+    "role": "doctor",
+    "name": "Dr. Priya Sharma, MD",
+    "phone": "+91 99887 76655"
+  },
+  {
+    "id": "doc-4",
+    "email": "vikram.doctor@nexora.health",
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde",
+    "role": "doctor",
+    "name": "Dr. Vikram Malhotra, MD",
+    "phone": "+91 99887 76655"
+  },
+  {
+    "id": "doc-5",
+    "email": "sunita.doctor@nexora.health",
+    "password": "$2b$10$O1PqcE0W86cQnEIbNAU6zuZzuyS4P2t6RSDigH5pUeiQpUXaDyUde",
+    "role": "doctor",
+    "name": "Dr. Sunita Rao, MS",
+    "phone": "+91 99887 76655"
+  },
+  {
+    "id": "pat-6279",
+    "email": "priya.test_1791486042171@nexora.health",
+    "password": "$2b$10$528eM8uLi9wPgHHFpFR/veYCEGAzchWsccyCVhutfYTXJzJAvZpXO",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-6279-2230",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-9421",
+    "email": "priya.test_1791494254476@nexora.health",
+    "password": "$2b$10$oiBJzE812mXq95uY1g/1qea4KvPi72WDaPDNvXN.qhtjOer1.zs6y",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-9421-4505",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-3395",
+    "email": "priya.test_1791498775588@nexora.health",
+    "password": "$2b$10$m4RUgRSs30tYcvqP8UsM0esb88nupHPW7ny3diIE7ZdmBvWGl279i",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-3395-5624",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-8208",
+    "email": "priya.test_1791498839066@nexora.health",
+    "password": "$2b$10$GADVQqG9SCnZvogTtRg6Uejk5r4L5bd21PIyF/dModPxZogCAzP7y",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-8208-9116",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-9653",
+    "email": "priya.test_1791498885831@nexora.health",
+    "password": "$2b$10$m/HBwFLjiFIjSYe98UYlPeKecJrxNHvrJZjbNNQoqh8dGly.LJ1Mi",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-9653-5880",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-1814",
+    "email": "priya.test_1791499657707@nexora.health",
+    "password": "$2b$10$8gBkUBysnwArDrbu3WYxH.V.X1HlLx2Sy4Q8v1gk9stTzHiJEwgsW",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-1814-7748",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-4525",
+    "email": "sec.patient.26307@nexora.health",
+    "password": "$2b$10$EUjc1U9bwdiegvtXVDu0q.9fIsYl5wJ.jYrld9L0BuPczBmCM0CdG",
+    "name": "Security Test Patient",
+    "fullName": "Security Test Patient",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 40,
+    "gender": "Male",
+    "village": "Rural Outpost",
+    "healthId": "NX-4525-7785",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-8712",
+    "email": "sec.patient.85247@nexora.health",
+    "password": "$2b$10$/C2dYTC/iBgFZk74pfEwweuYp8UVWp8faQ94xB8U8QLy5z.wq8xEK",
+    "name": "Security Test Patient",
+    "fullName": "Security Test Patient",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 40,
+    "gender": "Male",
+    "village": "Rural Outpost",
+    "healthId": "NX-8712-8093",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-9924",
+    "email": "e2e.patient.51430@nexora.health",
+    "password": "$2b$10$n7vQDS.CPaIDXYRukHS4BOM2s/qAx2.M8WemOiKxedyRGqJiBudme",
+    "name": "Ramesh E2E 51430",
+    "fullName": "Ramesh E2E 51430",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 44,
+    "gender": "Male",
+    "village": "Rampur Village",
+    "healthId": "NX-9924-1471",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-6544",
+    "email": "priya.test_1791501923309@nexora.health",
+    "password": "$2b$10$J.JijGeZH7d3A.2qQcbyNeZrqPXHLR1Rnh/OjNk2atksZIRZu1pW6",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-6544-3350",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-7708",
+    "email": "sec.patient.66980@nexora.health",
+    "password": "$2b$10$2us4Mp5a/NFq/EY4TXzgqeWOLQfVBryYYYPfT3v6wsZlysv1uoF3W",
+    "name": "Security Test Patient",
+    "fullName": "Security Test Patient",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 40,
+    "gender": "Male",
+    "village": "Rural Outpost",
+    "healthId": "NX-7708-2974",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-2293",
+    "email": "e2e.patient.35558@nexora.health",
+    "password": "$2b$10$7/Wq9458tqUMEqBkKp.M5O3OWRO6EN4aEUlo217tKZ1LWFdLysd5i",
+    "name": "Ramesh E2E 35558",
+    "fullName": "Ramesh E2E 35558",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 44,
+    "gender": "Male",
+    "village": "Rampur Village",
+    "healthId": "NX-2293-5601",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-8630",
+    "email": "e2e.patient.92201@nexora.health",
+    "password": "$2b$10$IMs6Kbja7akQxRs1LePMgOvUBZjqvB/a2U7UwXb3XAXDU6WIZEH.C",
+    "name": "Ramesh E2E 92201",
+    "fullName": "Ramesh E2E 92201",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 44,
+    "gender": "Male",
+    "village": "Rampur Village",
+    "healthId": "NX-8630-2257",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-7680",
+    "email": "priya.test_1791503422350@nexora.health",
+    "password": "$2b$10$qDng5FGoMbLcT37mx2FAi.Hf40xtRZCTyvDPaAR/W.zuvuZhJOUXS",
+    "name": "Priya Sharma",
+    "fullName": "Priya Sharma",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 29,
+    "gender": "Female",
+    "village": "Sonpur Village",
+    "healthId": "NX-7680-2386",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  },
+  {
+    "id": "pat-9836",
+    "email": "sec.patient.85308@nexora.health",
+    "password": "$2b$10$uXHZIu/733IsWFbcRAeRLe5jJRQSv27of5KzGRK0UlQ96QT3fldo6",
+    "name": "Security Test Patient",
+    "fullName": "Security Test Patient",
+    "role": "patient",
+    "phone": "+91 98000 00000",
+    "age": 40,
+    "gender": "Male",
+    "village": "Rural Outpost",
+    "healthId": "NX-9836-1563",
+    "bloodGroup": "B+",
+    "primaryKiosk": "Community Tele-Kiosk",
+    "allergies": [
+      "None known"
+    ],
+    "existingConditions": [],
+    "currentMedications": [],
+    "previousDiagnoses": []
+  }
+]

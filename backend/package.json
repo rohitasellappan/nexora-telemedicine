@@ -1,0 +1,35 @@
+{
+  "name": "nexora-backend",
+  "version": "1.0.0",
+  "description": "NEXORA Telemedicine Backend API",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "telemedicine",
+    "healthcare",
+    "rural-health",
+    "express",
+    "socketio",
+    "mongodb"
+  ],
+  "author": "NEXORA Team",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5",
+    "multer": "^2.4.0",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "socket.io-client": "^4.8.4"
+  }
+}

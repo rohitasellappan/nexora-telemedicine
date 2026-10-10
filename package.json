@@ -1,0 +1,23 @@
+{
+  "name": "nexora",
+  "version": "1.0.0",
+  "description": "NEXORA - Rural Telemedicine Platform",
+  "private": true,
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "telemedicine",
+    "rural-healthcare",
+    "nexora",
+    "react",
+    "vite",
+    "express",
+    "webrtc"
+  ],
+  "author": "NEXORA Team",
+  "license": "ISC"
+}

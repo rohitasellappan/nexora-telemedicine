@@ -1,0 +1,35 @@
+# Node & Build artifacts
+node_modules/
+dist/
+build/
+.output/
+
+# Environment files with secrets (NEVER COMMIT REAL CREDENTIALS)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Consultation Recordings (Uploads - private patient recordings)
+backend/uploads/recordings/*.webm
+!backend/uploads/recordings/appointment_APT-101_sample.webm
+uploads/
+
+# Persistent data store files
+backend/src/data/*.json
+!backend/src/data/doctors.json
+!backend/src/data/appointments.json
+!backend/src/data/healthRecords.json
+!backend/src/data/users.json
+!backend/src/data/recordings.json
+!backend/src/data/notifications.json
+
+# Logs & temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db

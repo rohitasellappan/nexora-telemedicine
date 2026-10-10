@@ -1,0 +1,42 @@
+# Node dependencies
+node_modules/
+
+# Environment files with secrets (NEVER COMMIT REAL CREDENTIALS)
+.env
+.env.local
+.env.development.local
+.env.production
+.env.production.local
+*.env
+
+# Consultation Recordings (Uploads - private patient recordings)
+uploads/recordings/*.webm
+!uploads/recordings/appointment_APT-101_sample.webm
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies and build output
+node_modules/
+**/node_modules/
+frontend/dist/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs and temporary files
+*.log
+.DS_Store
