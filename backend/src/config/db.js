@@ -11,22 +11,25 @@ export const connectDB = async () => {
 
   if (!uri) {
     console.error(
-      '[MongoDB Error] MONGODB_URL is missing from backend/.env'
+      '[MongoDB Error] MONGODB_URL is missing from the backend environment.'
     );
     return false;
   }
 
-  if (uri.startsWith('mongodb+srv://') && /:\d+(?:\/|\?|$)/.test(uri.split('@').pop() || '')) {
+  if (!uri.startsWith('mongodb+srv://') &&
+      !uri.startsWith('mongodb://')) {
     console.error(
-      '[MongoDB Error] Do not add a port number to an Atlas mongodb+srv hostname.'
+      '[MongoDB Error] Invalid connection string scheme.'
     );
     return false;
   }
 
   try {
+    console.log('[MongoDB] Attempting to connect to Atlas...');
+
     await mongoose.connect(uri, {
-      serverSelectionTimeoutMS: 10000,
-      connectTimeoutMS: 10000,
+      serverSelectionTimeoutMS: 15000,
+      connectTimeoutMS: 15000,
     });
 
     console.log(
@@ -36,7 +39,11 @@ export const connectDB = async () => {
     await seedDatabase();
     return true;
   } catch (error) {
-    console.error('[MongoDB Error]', error.message);
+    console.error(
+      '[MongoDB Error]',
+      error.name,
+      error.message
+    );
     return false;
   }
 };
